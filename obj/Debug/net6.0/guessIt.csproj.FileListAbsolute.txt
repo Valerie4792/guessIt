@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/bin/Debug/net6.0/guessIt
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/bin/Debug/net6.0/guessIt.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/bin/Debug/net6.0/guessIt.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/bin/Debug/net6.0/guessIt.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/bin/Debug/net6.0/guessIt.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/refint/guessIt.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/guessIt.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/guessIt/guessIt/obj/Debug/net6.0/ref/guessIt.dll
